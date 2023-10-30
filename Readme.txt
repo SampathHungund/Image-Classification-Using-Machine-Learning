@@ -11,3 +11,6 @@ Python libraries
   -- Keras Models
   -- Scipy
   -- Keras
+
+!! In some conditions the code does not work due to lack of adaption of Tesnorflow in the system 
+   in that case install Tensorflow-Gpu to create virtual environment of tensorflow for the system
